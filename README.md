@@ -1,4 +1,4 @@
-# 🧠 Personal Knowledge Graph (AI-Powered Second Brain)
+# 🧠 Personal Knowledge Graph
 
 A personal AI-powered knowledge system that converts web content into a **connected, searchable knowledge base**.
 
